@@ -1,3 +1,54 @@
+# 📊 Personal Finance Tracker v1.0
+
+**The Original Version - Basic Expense Tracker**
+
+> ⬆️ **See the upgraded version:** [v2.0 with AI insights, modern UI, and advanced features](https://github.com/Shanky085/personal-finance-tracker)
+
+---
+
+## 🔗 Live Demos
+
+- **v1.0 (This Version):** [Basic Tracker](YOUR_V1_STREAMLIT_URL_WILL_GO_HERE)
+- **v2.0 (Latest):** [AI-Powered Tracker](https://personal-finance-tracker-hvurvtpaixefbvmzkzy2sx.streamlit.app)
+
+---
+
+## Features (v1.0)
+
+- ✅ Basic expense tracking
+- ✅ Category-wise breakdown
+- ✅ Simple data visualization
+- ✅ CSV data storage
+- ✅ Transaction history
+
+## Tech Stack
+
+- Python
+- Streamlit
+- Pandas
+- Matplotlib
+
+---
+
+## What Changed in v2.0?
+
+| Feature | v1.0 (This) | [v2.0](https://github.com/Shanky085/personal-finance-tracker) |
+|---------|:-----------:|:------:|
+| Expense Tracking | ✅ | ✅ |
+| Income Tracking | ❌ | ✅ |
+| AI Financial Advisor | ❌ | ✅ |
+| Budget Alerts | ❌ | ✅ |
+| Interactive Charts (Plotly) | ❌ | ✅ |
+| Glassmorphism UI | ❌ | ✅ |
+| PDF Import | ❌ | ✅ |
+| Advanced Filters | ❌ | ✅ |
+
+See [Full Changelog](https://github.com/Shanky085/personal-finance-tracker/releases)
+
+---
+
+*This version is preserved for portfolio demonstration purposes to show project progression.*
+
 <div align="center">
 
 # 💰 Personal Finance Tracker
@@ -15,8 +66,8 @@
 
 ## 🌟 Features
 
-- ➕ **Add / �️ Delete Expenses** — Log and manage expenses by date, category, amount & description
-- � **Pie Chart & � Bar Graph** — Category-wise breakdown and monthly spending trends
+- ➕ **Add /  ️ Delete Expenses** — Log and manage expenses by date, category, amount & description
+-   **Pie Chart &   Bar Graph** — Category-wise breakdown and monthly spending trends
 - 💳 **Paytm PDF Import** — Auto-import transactions from Paytm UPI statement PDFs
 - 📌 **Summary Dashboard** — Total spent, transaction count, highest expense & top category
 
