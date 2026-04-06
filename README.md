@@ -8,9 +8,8 @@
 
 ## 🔗 Live Demos
 
-- **v1.0 (This Version):** [Basic Tracker](YOUR_V1_STREAMLIT_URL_WILL_GO_HERE)
-- **v2.0 (Latest):** [AI-Powered Tracker](https://personal-finance-tracker-hvurvtpaixefbvmzkzy2sx.streamlit.app)
-
+- **v1.0 (This Version):** https://finance-tracker-v1-ewsvdakdfpzlvjotnnsqpn.streamlit.app
+- **v2.0 (Latest):** https://personal-finance-tracker-hvurvtpaixefbvmzkzy2sx.streamlit.app
 ---
 
 ## Features (v1.0)
